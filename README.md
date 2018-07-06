@@ -49,7 +49,7 @@ Once the server is running, visit in your browser:
 
 * `http://localhost:8080/` to run your application.
 
-You will need to make sure that your Quantified Self API is also running at `http://localhost:3000`
+You will need to make sure that your Quantified Self API is also running at `http://localhost:8000`
 
 ## GitHub Pages Setup
 
@@ -78,4 +78,3 @@ Be sure to `npm run build` and commit before each push to master. A few seconds 
 * [Express](https://expressjs.com/)
 * [Mocha](https://mochajs.org/)
 * [Chai](https://chaijs.com/)
-
